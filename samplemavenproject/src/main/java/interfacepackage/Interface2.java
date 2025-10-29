@@ -15,6 +15,7 @@ public class Interface2 implements Interface1 {
 	}
 	/*public void show() {
 		System.out.println("Interface package");
-	}*/
+	
 
+}*/
 }
